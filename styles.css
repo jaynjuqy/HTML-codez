@@ -1,0 +1,17 @@
+body{
+	margin: 0;
+	font-family: system-ui;
+}
+.hero{
+	background-image: url("p2.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	color: white;
+	padding-top:100px;
+	padding-bottom:200px;
+}
+.header{
+	background-image: url(pattern.jpg);
+	color:rgb(101, 8, 8);
+	border:none;
+}
